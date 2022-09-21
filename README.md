@@ -69,7 +69,7 @@ Debería mostrar un mensaje de este estilo: pip 22.2.2 from (directorio) (python
 ```yaml
 {
  	"user_data":
- 	{
+   {
  			"username": "pepito",
  			"password": "mypassword"
    }
