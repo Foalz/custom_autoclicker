@@ -1,15 +1,10 @@
-# custom_autoclicker
-Autoclicker personalizado, dedicado a presionar varios botones en concreto y en realizar la funcion de escribir datos de usuario en una pantalla de login.
-
-
 ![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
 ![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/Plantilla-de-repositorio/readme&dt=&tid=UA-4677001-16)
 
 
 *Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)*
 
-<h1 align="center"> Nombre de la herramienta</h1>
-<p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
+<h1 align="center">Autoclicker personalizado</h1>
 <p align="center"><img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/Python-01-2.png"/></p> 
 
 ## Tabla de contenidos:
@@ -17,8 +12,8 @@ Autoclicker personalizado, dedicado a presionar varios botones en concreto y en 
 
 - [Badges o escudos](#badges-o-escudos)
 - [Descripción y contexto](#descripción-y-contexto)
-- [Guía de usuario](#guía-de-usuario)
 - [Guía de instalación](#guía-de-instalación)
+- [Guía de usuario](#guía-de-usuario)
 - [Cómo contribuir](#cómo-contribuir)
 - [Código de conducta](#código-de-conducta)
 - [Autor/es](#autores)
@@ -32,7 +27,7 @@ Es común en muchos repositorios open source el uso de badges o escudos para dar
 
 ### Ejemplos de badges
 
-- code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
+- code coverage percentage: ![hola](https://img.shields.io/badge/coverage-80%25-yellowgreen)
 - stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
 - package manager release: ![gem](https://img.shields.io/badge/gem-2.2.0-blue)
 - status of third-party dependencies: ![dependencies](https://img.shields.io/badge/dependencies-out%20of%20date-orange)
@@ -54,13 +49,15 @@ El badge se ve así y redirige al reporte de evaluación estática del último c
 
 ## Descripción y contexto
 ---
-Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
+Autoclicker personalizado, dedicado a presionar varios botones en concreto y en realizar la funcion de escribir datos de usuario en una pantalla de login.
 
-Asegúrate de empezar este archivo con una breve descripción sobre las funcionalidades y contexto de la herramienta digital. Sé conciso y al grano.
-
-## Guía de usuario
+## Guía de instalación
 ---
-Explica los pasos básicos sobre cómo usar la herramienta digital. Es una buena sección para mostrar capturas de pantalla o gifs que ayuden a entender la herramienta digital.
+<h2>Requerimientos para ejecutar el script</h2>
+
+
+
+
  	
 ## Guía de instalación
 ---
