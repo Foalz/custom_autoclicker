@@ -1,9 +1,3 @@
-![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
-![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/Plantilla-de-repositorio/readme&dt=&tid=UA-4677001-16)
-
-
-*Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)*
-
 <h1 align="center">Autoclicker personalizado</h1>
 <p align="center"><img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/Python-01-2.png"/></p> 
 
@@ -55,8 +49,21 @@ Autoclicker personalizado, dedicado a presionar varios botones en concreto y en 
 ---
 <h2>Requerimientos para ejecutar el script</h2>
 
+- Python: ![version](https://img.shields.io/badge/version->==3.10.4-blue)
+- pip
+- keyboard module: ![version](https://img.shields.io/badge/version-==0.13.5-blue)
+- PyAutoGUI module: ![version](https://img.shields.io/badge/version-==0.9.53-brightgreen)
+- pynput module: ![version](https://img.shields.io/badge/version-==1.7.6-orange)
 
+<h2>Instalación de Python</h2>
 
+<h3>Windows</h3>
+
+   [Descarga desde la página oficial.](https://www.python.org/)
+   
+<h3>Linux</h3>
+
+    sudo apt-get install python3
 
  	
 ## Guía de instalación
