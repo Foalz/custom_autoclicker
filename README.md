@@ -66,13 +66,13 @@ Debería mostrar un mensaje de este estilo: pip 22.2.2 from (directorio) (python
 
 <p>Dentro de la carpeta config, se encontrará un archivo llamado: "config.json", el cual se puede abrir con cualquier editor de texto, el cual tendrá el siguiente formato:</p>
 
-{
-	"user_data":
-		{
-			"username": "pepito",
-			"password": "mypassword"
-		}
-}
+- {
+- 	"user_data":
+- 		{
+- 			"username": "pepito",
+- 			"password": "mypassword"
+- 		}
+- }
 
 <p>Solamente se debe reemplazar la información que está dentro de las comillas sin remover las mismas, de lo contrario el archivo no podrá ser leído correctamente.</p>
 
@@ -83,12 +83,14 @@ Debería mostrar un mensaje de este estilo: pip 22.2.2 from (directorio) (python
 
 [Autoclicker_test](https://github.com/Foalz/autoclicker_test)
 
-<p>También, se pueden reemplazar las imagenes contenidas en la carpeta assets y probar manualmente, pero no es recomendada esta opción, ya que el código se ejecuta cada 0.1 segundos, y apenas el programa detecte la imagen, moverá el cursor hacia ella inmediatamente.</p>
+<p>Abrir el archivo index.html y ejecutar el archivo main.py</p>
+
+<p>También, se pueden reemplazar las imagenes contenidas en la carpeta assets y probar manualmente, pero <b>NO es recomendada esta opción</b>, ya que el código se ejecuta cada 0.1 segundos, y apenas el programa detecte la imagen, moverá el cursor hacia ella inmediatamente.</p>
 
 ## Mis redes
 ---
 
-Página web: https://www.foalz.dev
-Correo electrónico: pedrocontreras@foalz.dev
-LinkedIn: https://www.linkedin.com/in/pedro-contreras-ba707121b/
-Instagram: https://www.instagram.com/foalzdev/
+- Página web: https://www.foalz.dev
+- Correo electrónico: pedrocontreras@foalz.dev
+- LinkedIn: https://www.linkedin.com/in/pedro-contreras-ba707121b/
+- Instagram: https://www.instagram.com/foalzdev/
