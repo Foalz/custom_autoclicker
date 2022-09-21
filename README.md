@@ -66,13 +66,14 @@ Debería mostrar un mensaje de este estilo: pip 22.2.2 from (directorio) (python
 
 <p>Dentro de la carpeta config, se encontrará un archivo llamado: "config.json", el cual se puede abrir con cualquier editor de texto, el cual tendrá el siguiente formato:</p>
 
-- {
-- 	"user_data":
-- 		{
-- 			"username": "pepito",
-- 			"password": "mypassword"
-- 		}
-- }
+<p>{<
+ 	"user_data":
+ 		{
+ 			"username": "pepito",
+ 			"password": "mypassword"
+ 		}
+>}
+</p>
 
 <p>Solamente se debe reemplazar la información que está dentro de las comillas sin remover las mismas, de lo contrario el archivo no podrá ser leído correctamente.</p>
 
