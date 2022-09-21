@@ -4,42 +4,11 @@
 ## Tabla de contenidos:
 ---
 
-- [Badges o escudos](#badges-o-escudos)
 - [Descripción y contexto](#descripción-y-contexto)
 - [Guía de instalación](#guía-de-instalación)
 - [Guía de usuario](#guía-de-usuario)
-- [Cómo contribuir](#cómo-contribuir)
-- [Código de conducta](#código-de-conducta)
-- [Autor/es](#autores)
-- [Información adicional](#información-adicional)
-- [Licencia](#licencia)
-- [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
-
-## Badges o escudos
----
-Es común en muchos repositorios open source el uso de badges o escudos para dar visbilidad el uso de microservicios, licencias, descargas, etc. Recomendamos revisar la iniciativa https://shields.io/ donde según consideres necesario podrás generar badges para tu repo. 
-
-### Ejemplos de badges
-
-- code coverage percentage: ![hola](https://img.shields.io/badge/coverage-80%25-yellowgreen)
-- stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
-- package manager release: ![gem](https://img.shields.io/badge/gem-2.2.0-blue)
-- status of third-party dependencies: ![dependencies](https://img.shields.io/badge/dependencies-out%20of%20date-orange)
-- static code analysis grade: ![codacy](https://img.shields.io/badge/codacy-B-green)
-- [SemVer](https://semver.org/) version observance: ![semver](https://img.shields.io/badge/semver-2.0.0-blue)
-- amount of [Liberapay](https://liberapay.com/) donations per week: ![receives](https://img.shields.io/badge/receives-2.00%20USD%2Fweek-yellow)
-- Python package downloads: ![downloads](https://img.shields.io/badge/downloads-13k%2Fmonth-brightgreen)
-- Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-- [Uptime Robot](https://uptimerobot.com) percentage: ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
-
-### Badges que solicitamos:
----
-En la iniciativa Código para el Desarrollo solicitamos a los equipos que suman sus herramientas al catálogo de sumar el badge generado por el uso del microservicio de evaluación estática de código SonarCloud.
-
-El badge se ve así y redirige al reporte de evaluación estática del último commit de la herramienta:
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_guia-de-publicacion&metric=alert_status)](https://sonarcloud.io/dashboard?id=EL-BID_guia-de-publicacion)
-
+- [Cómo probarlo](#cómo-probarlo)
+- [Mis redes](#mis-redes)
 
 ## Descripción y contexto
 ---
@@ -65,57 +34,61 @@ Autoclicker personalizado, dedicado a presionar varios botones en concreto y en 
 
     sudo apt-get install python3
 
- 	
-## Guía de instalación
+<h3>Verificar que se tiene pip instalado en command prompt (cmd) en Windows o en la terminal de Linux</h3>
+
+<p>Para acceder al cmd, basta con presionar "windows + R" y escribir "cmd", o presionar Ctrl + Shift + T para abrir la terminal en Linux.</p>
+<p>Luego escribir el siguiente comando:</p>
+
+    pip --version
+    
+Debería mostrar un mensaje de este estilo: pip 22.2.2 from (directorio) (python 3.10)
+
+<h3>Instalando dependencias</h3>
+
+<p>Ejecutar el siguiente comando dentro de la carpeta donde se encuentra el archivo main.py</p>
+
+    pip install -r requirements.txt
+    
+ <p>Automáticamente comenzará a instalar las dependencias del proyecto, y estará listo para su uso.</p>
+ 
+## Guía de usuario
 ---
-Paso a paso de cómo instalar la herramienta digital. En esta sección es recomendable explicar la arquitectura de carpetas y módulos que componen el sistema.
+<h3>Ejecución</h3>
 
-Según el tipo de herramienta digital, el nivel de complejidad puede variar. En algunas ocasiones puede ser necesario instalar componentes que tienen dependencia con la herramienta digital. Si este es el caso, añade también la siguiente sección.
+<p>Solamente ejecutar el archivo main.py mediante doble click o por el siguiente comando (tanto en cmd como en terminal):</p>
 
-La guía de instalación debe contener de manera específica:
-- Los requisitos del sistema operativo para la compilación (versiones específicas de librerías, software de gestión de paquetes y dependencias, SDKs y compiladores, etc.).
-- Las dependencias propias del proyecto, tanto externas como internas (orden de compilación de sub-módulos, configuración de ubicación de librerías dinámicas, etc.).
-- Pasos específicos para la compilación del código fuente y ejecución de tests unitarios en caso de que el proyecto disponga de ellos.
+    python3 main.py
 
-### Dependencias
-Descripción de los recursos externos que generan una dependencia para la reutilización de la herramienta digital (librerías, frameworks, acceso a bases de datos y licencias de cada recurso). Es una buena práctica describir las últimas versiones en las que ha sido probada la herramienta digital. 
+<p>El programa automaticamente comenzará a escanear la pantalla, intentando encontrar los botones deseados.</p>
+<p><b>Importante: la terminal debe abrirse en el directorio del proyecto, de lo contrario no funcionará o ejecutará otro script con el mismo nombre en caso de haberlo.</b></p>
 
-    Puedes usar este estilo de letra diferenciar los comandos de instalación.
+<h3>Datos del usuario para la pantalla de login</h3>
 
-## Cómo contribuir
----
-Esta sección explica a desarrolladores cuáles son las maneras habituales de enviar una solicitud de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código. También puedes hacer un listado de puntos que se pueden mejorar de tu código para crear ideas de mejora.
+<p>Dentro de la carpeta config, se encontrará un archivo llamado: "config.json", el cual se puede abrir con cualquier editor de texto, el cual tendrá el siguiente formato:</p>
 
-## Código de conducta 
----
-El código de conducta establece las normas sociales, reglas y responsabilidades que los individuos y organizaciones deben seguir al interactuar de alguna manera con la herramienta digital o su comunidad. Es una buena práctica para crear un ambiente de respeto e inclusión en las contribuciones al proyecto. 
+{
+	"user_data":
+		{
+			"username": "pepito",
+			"password": "mypassword"
+		}
+}
 
-La plataforma Github premia y ayuda a los repositorios dispongan de este archivo. Al crear CODE_OF_CONDUCT.md puedes empezar desde una plantilla sugerida por ellos. Puedes leer más sobre cómo crear un archivo de Código de Conducta (aquí)[https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/]
+<p>Solamente se debe reemplazar la información que está dentro de las comillas sin remover las mismas, de lo contrario el archivo no podrá ser leído correctamente.</p>
 
-## Autor/es
----
-Nombra a el/los autor/es original/es. Consulta con ellos antes de publicar un email o un nombre personal. Una manera muy común es dirigirlos a sus cuentas de redes sociales.
-
-## Información adicional
----
-Esta es la sección que permite agregar más información de contexto al proyecto como alguna web de relevancia, proyectos similares o que hayan usado la misma tecnología.
-
-## Licencia 
+## Cómo probarlo
 ---
 
-La licencia especifica los permisos y las condiciones de uso que el desarrollador otorga a otros desarrolladores que usen y/o modifiquen la herramienta digital.
+<p>Para probar el bot para lo que fue programado, se puede utilizar como recurso el siguiente repositorio:</p>
 
-Incluye en esta sección una nota con el tipo de licencia otorgado a esta herramienta digital. El texto de la licencia debe estar incluído en un archivo *LICENSE.md* o *LICENSE.txt* en la raíz del repositorio.
+[Autoclicker_test](https://github.com/Foalz/autoclicker_test)
 
-Si desconoces qué tipos de licencias existen y cuál es la mejor para cada caso, te recomendamos visitar la página https://choosealicense.com/.
+<p>También, se pueden reemplazar las imagenes contenidas en la carpeta assets y probar manualmente, pero no es recomendada esta opción, ya que el código se ejecuta cada 0.1 segundos, y apenas el programa detecte la imagen, moverá el cursor hacia ella inmediatamente.</p>
 
-Si la herramienta que estás publicando con la iniciativa Código para el Desarrollo ha sido financiada por el BID, te invitamos a revisar la [licencia oficial del banco para publicar software](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/LICENSE.md)
+## Mis redes
+---
 
-## Limitación de responsabilidades
-Disclaimer: Esta sección es solo para herramientas financiadas por el BID.
-
-El BID no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
-
-i. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o
-
-ii. A raíz del uso de la Herramienta Digital, incluyendo, pero sin limitación de potenciales defectos en la Herramienta Digital, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización de la Herramienta Digital.
+Página web: https://www.foalz.dev
+Correo electrónico: pedrocontreras@foalz.dev
+LinkedIn: https://www.linkedin.com/in/pedro-contreras-ba707121b/
+Instagram: https://www.instagram.com/foalzdev/
