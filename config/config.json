@@ -1,0 +1,13 @@
+{
+	"user_data":
+		{
+			"username": "pepito",
+			"password": "mypassword"
+		},
+	"shortcuts": 
+		{
+			"start": "f1",
+			"stop": "f2"
+		}
+	
+}

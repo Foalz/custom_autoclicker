@@ -1,0 +1,474 @@
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:16 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:16', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:17 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:17', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:17 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:17', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:18 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:18', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:18 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:18', Box(left=627, top=237, width=79, height=47))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:18 Found!
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:46:18', 0.73, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:46:19', 'Coordinates: ', (1976, 65))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:46:19 RandX: 9
+RandY: 7
+Operation: 0
+X:666
+Y:260
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:46:19', 'Coordinates: ', (666, 260))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:46:19', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:19 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:19', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:20 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:20', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:20 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:20', Box(left=39, top=190, width=354, height=58))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:20 Found!
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:46:20', 0.57, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:46:20', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:46:20 RandX: 5
+RandY: 6
+Operation: 0
+X:216
+Y:219
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:46:20', 'Coordinates: ', (216, 219))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:46:21', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:46:22', 1.16, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:46:23', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:46:23 RandX: 5
+RandY: 9
+Operation: -1
+X:253
+Y:630
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:46:23', 'Coordinates: ', (258, 625))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:46:23', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:24 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:24', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:24 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:24', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:24 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:24', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:25 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:25', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:25 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:25', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:25 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:25', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:26 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:26', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:26 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:26', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:26 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:26', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:46:27 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:46:27', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:48:52 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:48:52', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:48:52 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:48:52', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:48:52 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:48:52', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:48:53 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:48:53', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:48:53 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:48:53', Box(left=627, top=237, width=79, height=47))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:48:53 Found!
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:48:53', 1.27, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:48:54', 'Coordinates: ', (2355, 0))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:48:54 RandX: 5
+RandY: 1
+Operation: 0
+X:666
+Y:260
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:48:54', 'Coordinates: ', (666, 260))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:48:54', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:48:55 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:48:55', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:48:55 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:48:55', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:48:55 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:48:55', Box(left=39, top=190, width=354, height=58))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:48:55 Found!
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:48:55', 0.94, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:48:56', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:48:56 RandX: 5
+RandY: 5
+Operation: -1
+X:211
+Y:224
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:48:56', 'Coordinates: ', (211, 224))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:48:57', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:48:58', 0.59, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:48:58', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:48:58 RandX: 5
+RandY: 10
+Operation: 1
+X:263
+Y:620
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:48:58', 'Coordinates: ', (263, 620))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:48:59', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:48:59 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:48:59', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:48:59 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:48:59', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:0 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:0', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:0 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:0', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:0 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:0', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:0 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:0', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:1 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:1', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:1 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:1', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:1 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:1', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:2 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:2', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:2 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:2', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:2 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:2', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:3 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:3', Box(left=500, top=258, width=204, height=58))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:3 Found!
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:3', 0.55, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:3', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:49:3 RandX: 8
+RandY: 6
+Operation: 0
+X:602
+Y:287
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:3', 'Coordinates: ', (602, 287))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:4', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:4 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:4', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:4 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:4', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:5 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:5', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:5 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:5', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:5 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:5', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:6 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:6', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:6 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:6', Box(left=500, top=258, width=204, height=58))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:6 Found!
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:6', 0.73, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:7', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:49:7 RandX: 6
+RandY: 8
+Operation: -1
+X:596
+Y:293
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:7', 'Coordinates: ', (596, 293))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:7', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:7 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:7', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:8 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:8', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:8 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:8', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:8 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:8', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:9 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:9', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:9 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:9', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:9 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:9', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:10 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:10', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:10 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:10', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:10 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:10', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:11 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:11', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:11 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:11', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:11 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:11', Box(left=500, top=258, width=204, height=58))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:11 Found!
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:11', 0.6, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:12', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:49:12 RandX: 8
+RandY: 4
+Operation: 1
+X:610
+Y:279
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:12', 'Coordinates: ', (610, 279))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:12', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:13 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:13', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:13 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:13', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:13 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:13', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:14 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:14', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:14 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:14', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:14 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:14', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:15 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:15', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:15 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:15', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:15 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:15', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:16 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:16', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:16 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:16', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:16 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:16', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:16 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:16', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:17 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:17', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:17 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:17', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:17 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:17', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:18 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:18', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:18 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:18', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:18 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:18', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:19 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:19', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:19 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:19', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:19 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:19', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:20 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:20', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:20 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:20', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:20 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:20', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:21 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:21', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:21 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:21', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:21 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:21', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:22 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:22', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:22 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:22', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:22 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:22', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:23 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:23', Box(left=627, top=237, width=79, height=47))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:23 Found!
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:23', 0.68, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:23', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:49:23 RandX: 2
+RandY: 8
+Operation: 1
+X:668
+Y:258
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:23', 'Coordinates: ', (668, 258))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:23', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:24 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:24', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:24 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:24', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:24 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:24', Box(left=39, top=190, width=354, height=58))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:24 Found!
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:24', 0.87, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:25', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:49:25 RandX: 7
+RandY: 5
+Operation: 1
+X:223
+Y:212
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:25', 'Coordinates: ', (223, 212))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:26', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:26', 1.15, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:28', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:49:28 RandX: 1
+RandY: 8
+Operation: 1
+X:259
+Y:624
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:28', 'Coordinates: ', (259, 624))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:28', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:28 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:28', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:28 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:28', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:29 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:29', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:29 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:29', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:29 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:29', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:30 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:30', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:30 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:30', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:30 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:30', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:31 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:31', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:31 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:31', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:31 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:31', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:32 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:32', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:32 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:32', Box(left=500, top=258, width=204, height=58))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:32 Found!
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:32', 0.52, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:33', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:49:33 RandX: 7
+RandY: 8
+Operation: -1
+X:595
+Y:294
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:33', 'Coordinates: ', (595, 294))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:33', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:33 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:33', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:34 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:34', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:34 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:34', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:34 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:34', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:35 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:35', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:35 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:35', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:35 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:35', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:35 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:35', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:36 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:36', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:36 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:36', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:36 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:36', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:37 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:37', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:37 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:37', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:37 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:37', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:38 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:38', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:38 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:38', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:38 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:38', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:39 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:39', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:39 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:39', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:39 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:39', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:40 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:40', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:40 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:40', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:40 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:40', Box(left=627, top=237, width=79, height=47))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:40 Found!
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:40', 0.59, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:41', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:49:41 RandX: 7
+RandY: 4
+Operation: -1
+X:659
+Y:267
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:41', 'Coordinates: ', (659, 267))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:41', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:42 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:42', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:42 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:42', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:42 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:42', Box(left=39, top=190, width=354, height=58))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:42 Found!
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:42', 0.67, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:43', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:49:43 RandX: 8
+RandY: 7
+Operation: -1
+X:208
+Y:227
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:43', 'Coordinates: ', (208, 227))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:43', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:44', 0.83, 'seconds')
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:45', 'Coordinates: ', (4, 4))
+INFO:root:from automatization.py (Click) [20/9/2022]: 23:49:45 RandX: 5
+RandY: 2
+Operation: -1
+X:253
+Y:630
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:45', 'Coordinates: ', (253, 630))
+INFO:root:From automatization.py (Click): ('[20/9/2022]: 23:49:45', 'Coordinates: ', (4, 4))
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:45 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:45', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:46 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:46', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:46 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:46', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:46 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:46', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:47 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:47', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:47 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:47', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:47 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:47', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:48 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:48', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:48 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:48', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:48 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:48', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:49 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:49', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:49 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:49', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:49 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:49', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:50 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:50', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:50 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:50', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:50 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:50', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:50 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:50', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:51 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:51', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:51 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:51', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:51 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:51', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:52 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:52', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:52 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:52', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:52 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:52', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:53 Checking for -> login_screen
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:53', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:53 Checking for -> disconnect
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:53', None)
+INFO:root:From automatization.py (CheckScreen): [20/9/2022]: 23:49:53 Checking for -> logout
+INFO:root:From automatization.py (CheckScreen): ('[20/9/2022]: 23:49:53', None)
